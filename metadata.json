@@ -1,0 +1,6 @@
+{
+  "name": "Finova Finance - Gestion Financière Premium & IA",
+  "description": "Plateforme premium de gestion financière personnelle, suivi du budget, investissements, épargne et recommandations intelligentes par Finova AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
